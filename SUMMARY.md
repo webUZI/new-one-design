@@ -1,6 +1,6 @@
 # Summary
 
-* [简介](README.md)
+* [Introduction 介绍](README.md)
 * [Foundation 基础](foundation/README.md)
-    * [color 色彩](foundation/color.md)
+    * [Color 色彩](foundation/color.md)
 
